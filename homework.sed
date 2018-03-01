@@ -1,5 +1,5 @@
-# Name: YOUR NAME
-# Date: Month Day, Year
+# Name: Ryan Loizzo
+# Date: 1/25/18
 
 # Programming Paradigms
 # Regular Expression Primer

@@ -1,8 +1,8 @@
 BITS 16
 
 ;; Ryan Loizzo
-;; 1/20/18
-;; Daily 2
+;; 1/23/18
+;; Daily 3
 
 start:
        	cli             ; turn off interrupts for the prelude
